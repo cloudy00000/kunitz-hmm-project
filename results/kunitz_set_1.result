@@ -1,0 +1,75 @@
+Threshold: 0.1, Accuracy: 0.9999512728234614, MCC: 0.9665540566699166
+Sensitivity: 1.0, Specificity: 0.9999512390505546, FPR: 4.87609494453442e-05, Precision: 0.9342723004694836, F1 Score: 0.9660194174757283
+Confusion Matrix:
+[[287101     14]
+ [     0    199]]
+Threshold: 0.01, Accuracy: 0.9999825974369505, MCC: 0.9876604721677732
+Sensitivity: 1.0, Specificity: 0.9999825853751981, FPR: 1.7414624801908642e-05, Precision: 0.9754901960784313, F1 Score: 0.987593052109181
+Confusion Matrix:
+[[287110      5]
+ [     0    199]]
+Threshold: 0.001, Accuracy: 0.9999860779495604, MCC: 0.9900918691307764
+Sensitivity: 1.0, Specificity: 0.9999860683001585, FPR: 1.3931699841526914e-05, Precision: 0.9802955665024631, F1 Score: 0.9900497512437811
+Confusion Matrix:
+[[287111      4]
+ [     0    199]]
+Threshold: 0.0001, Accuracy: 0.9999860779495604, MCC: 0.9900918691307764
+Sensitivity: 1.0, Specificity: 0.9999860683001585, FPR: 1.3931699841526914e-05, Precision: 0.9802955665024631, F1 Score: 0.9900497512437811
+Confusion Matrix:
+[[287111      4]
+ [     0    199]]
+Threshold: 1e-05, Accuracy: 0.9999930389747802, MCC: 0.9950089721735175
+Sensitivity: 1.0, Specificity: 0.9999930341500792, FPR: 6.965849920763457e-06, Precision: 0.9900497512437811, F1 Score: 0.995
+Confusion Matrix:
+[[287113      2]
+ [     0    199]]
+Threshold: 1e-06, Accuracy: 0.9999965194873901, MCC: 0.9974951300581194
+Sensitivity: 1.0, Specificity: 0.9999965170750397, FPR: 3.4829249603817286e-06, Precision: 0.995, F1 Score: 0.9974937343358395
+Confusion Matrix:
+[[287114      1]
+ [     0    199]]
+Threshold: 1e-07, Accuracy: 1.0, MCC: 1.0
+Sensitivity: 1.0, Specificity: 1.0, FPR: 0.0, Precision: 1.0, F1 Score: 1.0
+Confusion Matrix:
+[[287115      0]
+ [     0    199]]
+Threshold: 1e-08, Accuracy: 1.0, MCC: 1.0
+Sensitivity: 1.0, Specificity: 1.0, FPR: 0.0, Precision: 1.0, F1 Score: 1.0
+Confusion Matrix:
+[[287115      0]
+ [     0    199]]
+Threshold: 1e-09, Accuracy: 1.0, MCC: 1.0
+Sensitivity: 1.0, Specificity: 1.0, FPR: 0.0, Precision: 1.0, F1 Score: 1.0
+Confusion Matrix:
+[[287115      0]
+ [     0    199]]
+Threshold: 1e-10, Accuracy: 1.0, MCC: 1.0
+Sensitivity: 1.0, Specificity: 1.0, FPR: 0.0, Precision: 1.0, F1 Score: 1.0
+Confusion Matrix:
+[[287115      0]
+ [     0    199]]
+Threshold: 1e-11, Accuracy: 1.0, MCC: 1.0
+Sensitivity: 1.0, Specificity: 1.0, FPR: 0.0, Precision: 1.0, F1 Score: 1.0
+Confusion Matrix:
+[[287115      0]
+ [     0    199]]
+Threshold: 1e-12, Accuracy: 0.9999965194873901, MCC: 0.9974825356672187
+Sensitivity: 0.9949748743718593, Specificity: 1.0, FPR: 0.0, Precision: 1.0, F1 Score: 0.9974811083123425
+Confusion Matrix:
+[[287115      0]
+ [     1    198]]
+Threshold: 1e-13, Accuracy: 0.9999930389747802, MCC: 0.9949587192192321
+Sensitivity: 0.9899497487437185, Specificity: 1.0, FPR: 0.0, Precision: 1.0, F1 Score: 0.9949494949494949
+Confusion Matrix:
+[[287115      0]
+ [     2    197]]
+Threshold: 1e-14, Accuracy: 0.9999895584621703, MCC: 0.9924285021942114
+Sensitivity: 0.9849246231155779, Specificity: 1.0, FPR: 0.0, Precision: 1.0, F1 Score: 0.9924050632911393
+Confusion Matrix:
+[[287115      0]
+ [     3    196]]
+Threshold: 1e-15, Accuracy: 0.9999860779495604, MCC: 0.9898918355113105
+Sensitivity: 0.9798994974874372, Specificity: 1.0, FPR: 0.0, Precision: 1.0, F1 Score: 0.9898477157360407
+Confusion Matrix:
+[[287115      0]
+ [     4    195]]
