@@ -133,6 +133,7 @@ The final visualizations include:
 - NumPy
 - pandas
 - matplotlib
+- Chimera UCSF
 
 ---
 
